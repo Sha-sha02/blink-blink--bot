@@ -15,8 +15,8 @@ global.owner = [
   ['967730588759', '💫 𝐁𝐔𝐌𝐁𝐋𝐄𝐁𝐄𝐄🐝𝐁𝐎𝐓💫', true],
 ];
 
-global.suittag = ['254114098508'];
-global.prems = ['254114098508'];
+global.suittag = ['2349125932419'];
+global.prems = ['2349125932419'];
 
 global.packname = '𒁂⃝ᰲ𝐊 𝐇 ✰ 𝐋 𝐈 𝐃⃝🇹🇿❦™ ͟͞';
 global.author = '★𝐁𝐔𝐌𝐁𝐋𝐄𝐁𝐄𝐄🐝𝐁𝐎𝐓★';
@@ -45,12 +45,12 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝐁𝐔𝐌𝐁𝐋𝐄𝐁𝐄𝐄🐝𝐁𝐎𝐓`;
 global.gt = '★𝐁𝐔𝐌𝐁𝐋𝐄𝐁𝐄𝐄🐝𝐁𝐎𝐓★';
 global.mysticbot = '★𝐁𝐔𝐌𝐁𝐋𝐄𝐁𝐄𝐄🐝𝐁𝐎𝐓★';
-global.md = 'https://github.com/Khalid-niccur';
-global.mysticbot = 'https://github.com/Khalid-niccur';
+global.md = 'https://whatsapp.com/channel/0029VagvH9tLdQeiUYXE7V43';
+global.mysticbot = 'https://whatsapp.com/channel/0029VagvH9tLdQeiUYXE7V43';
 global.waitt = '*[❗] 𝐁𝐔𝐌𝐁𝐋𝐄𝐁𝐄𝐄🐝𝐁𝐎𝐓 𝐈𝐒 𝐋𝐎𝐀𝐃𝐈𝐍𝐆...*';
 global.waittt = '*[❗]𝐁𝐔𝐌𝐁𝐋𝐄𝐁𝐄𝐄🐝𝐁𝐎𝐓 𝐈𝐒 𝐋𝐎𝐀𝐃𝐈𝐍𝐆...*';
 global.waitttt = '*[❗]𝐁𝐔𝐌𝐁𝐋𝐄𝐁𝐄𝐄🐝𝐁𝐎𝐓 𝐈𝐒 𝐋𝐎𝐀𝐃𝐈𝐍𝐆...*';
-global.nomorown = '254736958034';
+global.nomorown = '2349125932419';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
